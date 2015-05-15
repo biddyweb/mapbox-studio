@@ -190,6 +190,10 @@
   background: rgba(0,0,0,.05);
 }
 
+#reference section.source-ref:not(.active):hover {
+  background: rgba(0,0,0,.05);
+}
+
 .reference-entry { margin-bottom: 3px;}
 
 #reference section.active a,
